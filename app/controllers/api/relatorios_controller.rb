@@ -1,4 +1,3 @@
-# app/controllers/api/relatorios_controller.rb
 module Api
   class RelatoriosController < ApplicationController
     def index
